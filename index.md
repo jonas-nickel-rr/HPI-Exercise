@@ -7,3 +7,5 @@ The character likes travelling to many places in space and time. He usually has 
 * Dangerous
 Famous quote:
 > Geronimo!
+Image:
+<img src="https://de.wikipedia.org/wiki/Doctor_Who#/media/Datei:TARDIS2.jpg"/>
