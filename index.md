@@ -5,3 +5,5 @@ The character likes travelling to many places in space and time. He usually has 
 * Multiple Lives
 * Funny
 * Dangerous
+Famous quote:
+> Geronimo!
